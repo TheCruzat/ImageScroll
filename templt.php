@@ -94,7 +94,8 @@ echo '</ul></div>';
 <?php 
 echo '<div class="contain"><div class="endo">';
 echo '<p>A Handy PHP Script For Sharing Your Magical Memories</p>';
-echo '<p><a href="#" target="_blank">[ source ]</a></p>';
+echo '<p>(page is drawn dynamically from images dropped in adjacent folder)</p>';
+echo '<p><a href="//github.com/TheCruzat/ImageScroll" target="_blank">[ SOURCE ]</a></p>';
 echo '</div></div>'; ?>
 </body>
 </html>
